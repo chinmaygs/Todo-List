@@ -21,6 +21,9 @@ TO START THE APPLICATION
         Use code 'npm run dev' to start your application
         
 (in both frontend and backend)
+       
+        
         APPLICATION PREVIEW
         
-        ![Preview](https://github.com/chinmaygs/Todo-List/assets/164546850/923d0dd7-2eeb-425e-bfc5-3e05ea9524b1)
+![Preview](https://github.com/chinmaygs/Todo-List/assets/164546850/dd9fe42b-9d6e-4533-bb85-e85f835acbe2)
+
